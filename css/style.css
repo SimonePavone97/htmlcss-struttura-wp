@@ -7,7 +7,7 @@
 header{
     width: 100%;
     height: 100px;
-    background-color: blueviolet;
+    background-color: #E586E2;
 }
 
 body{
@@ -28,31 +28,51 @@ main{
 .riquadro-giallo{
     width: 100%;
     height: 350px;
-    background-color: goldenrod;
+    background-color: #E1D679;
 }
 
 .riquadro{
-    background-color: lightblue;
+    background-color: #0086FE;
     width: 100%;
     height: 500px;
     margin-top: 20px;
 }
 
 .prima{
-    background-color: blue;
+    background-color: #ABCFE6;
     width: 100%;
-    height: 20px;
-    margin-top: 80px;
+    height: 125px;
+    margin-bottom: 15px;
     float: left;
 }
 
 .seconda{
-    background-color: blue;
+    background-color: #ABCFE6;
     width: 20%;
-    height: 20px;
-    margin-left: 20px;
+    height: 348px;
+    margin-right: 10px;
+    float: left;
+}
+
+.terzo{
+    background-color: #ABCFE6;
+    width: 55%;
+    height: 348px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+.quarto{
+    background-color: #ABCFE6;
+    width: 20%;
+    margin-left: 10px;
+    height: 348px;
     float: right;
 }
 
-
-
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+}
